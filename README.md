@@ -8,7 +8,7 @@
 <img src = "./SolarSystem/SolarSystem.png" alt="图片-太阳系行星系统">
 </ul>
 
-- [吃豆人小游戏]（./Pacman）
+- [吃豆人小游戏]（./Pacman/pacman.txt）
 <ul>
   <img src = "./Pacman/pacman.jpg" alt="图片-吃豆人小游戏">
 </ul>
