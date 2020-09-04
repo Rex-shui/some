@@ -1,3 +1,3 @@
 # OpenGL
 
-## [GLUT程序结构](./)
+- [GLUT程序结构](../SimpleSocket/baseGlutProc.cpp)
